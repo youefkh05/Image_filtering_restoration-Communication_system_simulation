@@ -1,6 +1,6 @@
 clear;
 clc;
-load filters;
+load filters;   %loading filters
 %section A %%%%%%%
 %get the first input
 [file1,path1]=uigetfile('*.*');  %The file locatioon

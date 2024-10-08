@@ -1,7 +1,7 @@
 clc
 clear all
 close all
-warning off
+warning off     %off the warning
 Fs=44100;       %Sampling frequency in hertz
 ch=2;           %Number of channels--2 options--1 (mono) or 2 (stereo)
 datatype='uint8';
